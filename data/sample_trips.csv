@@ -1,0 +1,14 @@
+date,activity_type,value,unit,emissions_kg
+2025-01-05,Flight,2000,km,510
+2025-01-06,Accommodation,7,nights,159.6
+2025-01-06,Transport (car),150,km,31.5
+2025-01-07,Activity (medium),2,days,12.4
+2025-01-08,Transport (train),250,km,10.25
+2025-01-09,Activity (low),1,days,2.1
+2025-01-15,Flight,2000,km,510
+2025-01-16,Accommodation,5,nights,114
+2025-01-16,Transport (bus),100,km,8.9
+2025-01-17,Activity (high),3,days,37.5
+2025-01-20,Flight,1500,km,382.5
+2025-01-21,Accommodation,4,nights,91.2
+2025-01-21,Transport (taxi),80,km,20
